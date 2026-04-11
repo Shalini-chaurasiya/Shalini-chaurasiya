@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 - 🔭 Currently working on: AI Interview Platform  
-- 🌱 Learning: Full Stack Development (MERN)  
-- 💡 Interested in: Web Dev, DSA, System Design  
+- 🌱 Learning: Full Stack Development (MERN), Agentic AI  
+- 💡 Interested in: Web Development, DSA, System Design, GenAI  
 - ⚡ Fun fact: I love turning ideas into real apps  
 
 ---
@@ -22,7 +22,8 @@
 
 ### 🌐 Frontend
 - React.js
-- HTML5, CSS3
+- HTML5
+- CSS3
 - Tailwind CSS
 
 ### 🔧 Backend
@@ -44,24 +45,22 @@
 ### 🔹 AI Interview Platform
 - AI-based mock interview system  
 - Real-time feedback & performance analysis  
-- Tech: React, Node.js, MongoDB  
-
-### 🔹 (Add your 2–3 more projects here)
-- Short description  
-- Tech stack  
+- Tech Stack: React.js, Node.js, MongoDB  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shalini-chaurasiya&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalini-chaurasiya&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: [Shalini Chaurasiya](https://www.linkedin.com/in/shalini-chaurasiya-03425931a/)  
+- 📧 Email: shalinichaurasiya2203@gmail.com  
 
 ---
 
