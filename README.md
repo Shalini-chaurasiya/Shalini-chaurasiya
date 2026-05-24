@@ -1,16 +1,16 @@
 # Hi, I'm Shalini Chaurasiya 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=435&lines=B.Tech+(ECE)+Student;Aspiring+Software+Engineer;Passionate+Web+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=550&lines=B.Tech+(ECE)+Student;Aspiring+Software+Engineer;Full+Stack+and+GenAI+Enthusiast;Building+AI-powered+platforms" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🔭 **Currently working on:** AI Interview Platform  
-- 🌱 **Learning:** Full Stack Development (MERN), Agentic AI  
+- 🌱 **Learning:** Full Stack Development (MERN), Agentic AI, **Three.js**, **Tailwind CSS**
 - 💡 **Interested in:** Web Development, DSA, System Design, GenAI  
-- ⚡ **Fun fact:** I love turning ideas into real apps  
+- ⚡ **Fun fact:** I love turning ideas into interactive digital reality.
 
 ---
 
@@ -19,7 +19,7 @@
 ### 💻 Languages & Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,tailwind,threejs" />
   </a>
 </p>
 
@@ -35,13 +35,12 @@
 ## 🚀 Projects
 
 ### 🔹 AI Interview Platform
-- AI-based mock interview system  
-- Real-time feedback & performance analysis  
-- **Tech Stack:** React.js, Node.js, MongoDB  
+- AI-based mock interview system with real-time feedback and performance analysis.
+- **Tech Stack:** React.js, Node.js, MongoDB, GenAI APIs.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
 ### 🐍 Contribution Activity
 <picture>
@@ -73,5 +72,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=36BCF7&height=100&section=footer" alt="Waving Footer" />
 </p>
