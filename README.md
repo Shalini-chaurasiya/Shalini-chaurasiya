@@ -28,7 +28,7 @@
 
 ```yaml
 name: Shalini Chaurasiya
-located_in: Lucknow, Uttar Pradesh, India 🇮🇳
+located_in: Basti, Uttar Pradesh, India 🇮🇳
 education: B.Tech in Electronics & Communication Engineering
 status: Actively building & learning
 
