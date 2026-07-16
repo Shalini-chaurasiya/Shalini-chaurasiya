@@ -45,19 +45,3 @@
 </p>
 
 <!-- BADGE ROW 3 - AI Stack -->
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-7c3aed?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG_Systems-e879f9?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-f59e0b?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector_Databases-06b6d4?style=flat-square&logoColor=white"/>
-</p>
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,30:302b63,70:1a0a3e,100:0f0c29&height=140&section=footer&animation=fadeIn" alt="footer"/>
