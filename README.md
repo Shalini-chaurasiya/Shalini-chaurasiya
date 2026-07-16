@@ -60,24 +60,4 @@
 
 ---
 
-## 🌟 About Me
-
-```yaml
-name         : Shalini Chaurasiya
-pronouns     : She / Her
-location     : Basti, Uttar Pradesh, India 🇮🇳
-education    : B.Tech — Electronics & Communication Engg.
-status       : 🟢 Actively building & open to opportunities
-
-currently_building:
-  🤖  InterviewAI.IQ   →  AI-Powered Mock Interview Platform
-  🏥  MediTracker      →  AI-Driven Health Management System
-  🛒  E-Commerce UI    →  React + Tailwind Responsive Storefront
-
-fun_fact: "I love turning wild ideas into
-          interactive digital reality ✨"
-```
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,30:302b63,70:1a0a3e,100:0f0c29&height=140&section=footer&animation=fadeIn" alt="footer"/>
