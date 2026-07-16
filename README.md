@@ -18,15 +18,7 @@
 <br/><br/>
 
 <!-- BADGE ROW 1 — Identity -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Shalini-chaurasiya&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Shalini-chaurasiya?label=👥+Followers&style=for-the-badge&color=a78bfa&labelColor=1e1b4b" alt="followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/💼_Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=14532d" alt="open to work"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🎓_Degree-B.Tech%20ECE-c084fc?style=for-the-badge&labelColor=1e1b4b" alt="education"/>
-</p>
+
 
 <!-- BADGE ROW 2 — Tech Stack Quick View -->
 
