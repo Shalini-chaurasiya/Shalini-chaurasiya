@@ -15,5 +15,4 @@
 <!-- CODING GIF -->
 <img src="https://raw.githubusercontent.com/mikechambers-github/mikechambers-github/main/coding.gif" width="450" alt="coding gif"/>
 
-<br/><br/>
 
