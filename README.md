@@ -1,14 +1,47 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hero.svg" alt="Sumit Verma — systems should be resilient by design" width="100%" />
+</p>
 
-<!-- TOP WAVE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a0a3e,60:302b63,100:24243e&height=230&section=header&text=Shalini%20Chaurasiya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=✦%20Full%20Stack%20Developer%20%20•%20%20GenAI%20Engineer%20%20•%20%20ECE%20B.Tech%20✦&descAlignY=60&descAlign=50&descSize=16&stroke=c084fc&strokeWidth=1.5" alt="header"/>
+<p align="center">
+  <a href="https://sumitverma77.github.io"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio — sumitverma77.github.io" /></a>&nbsp;
+  <a href="https://linkedin.com/in/sumit-verma-"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn — Sumit Verma" /></a>&nbsp;
+  <a href="https://leetcode.com/sumit_verma_77"><img src="./assets/link-leetcode.svg" width="31.5%" alt="LeetCode — sumit_verma_77" /></a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="./assets/now.svg" width="100%" alt="Now: building scalable backend Systems, architecting cloud &amp; infrastructure systems, and solving algorithms &amp; data structures" />
+</p>
 
-<!-- ANIMATED TYPING — MAIN ROLES -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;GenAI+%7C+LLM+Engineer;Building+Scalable+Web+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
+<br />
 
-<br/><br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="contribution-history-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="contribution-history-light.svg">
+    <img src="assets/contribution-history.svg" alt="GitHub Contribution History" style="width: 100%; max-width: 880px;" />
+  </picture>
+</p>
 
+<!-- GITHUB_STATS:START -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-stats-light.svg">
+    <img src="github-stats-dark.svg" alt="GitHub Cyberpunk Card" style="width: 100%; max-width: 800px;" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="leetcode-stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="leetcode-stats-light.svg">
+    <img src="leetcode-stats-dark.svg" alt="LeetCode Cyberpunk Card" style="width: 100%; max-width: 800px;" />
+  </picture>
+</p>
+
+---
+
+<sub>🐼 Auto-updated by <a href=".github/workflows/update-readme.yml">NeonPanda</a> · Tue, 25 Aug 2026 02:03:43 GMT</sub>
+
+<!-- GITHUB_STATS:END -->
