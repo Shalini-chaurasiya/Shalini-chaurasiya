@@ -3,13 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shalini-chaurasiya"><img src="./assets/link-portfolio.svg" width="31.5%" alt="GitHub — Shalini-chaurasiya" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/shalini-chaurasiya-03425931a/"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn — Shalini Chaurasiya" /></a>&nbsp;
-  <a href="https://leetcode.com/u/shaliiiiiiiniiiichhh123"><img src="./assets/link-leetcode.svg" width="31.5%" alt="LeetCode — shaliiiiiiiniiiichhh123" /></a>
+  <a href="https://github.com/Shalini-chaurasiya">
+    <img src="./assets/link-portfolio.svg" width="31.5%" alt="GitHub — Shalini-chaurasiya" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/shalini-chaurasiya-03425931a/">
+    <img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn — Shalini Chaurasiya" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/shaliiiiiiiniiiichhh123">
+    <img src="./assets/link-leetcode.svg" width="31.5%" alt="LeetCode — shaliiiiiiiniiiichhh123" />
+  </a>
 </p>
 
+<br />
+
 <p align="center">
-  <img src="./assets/now.svg" width="100%" alt="Now: building scalable backend Systems, architecting cloud &amp; infrastructure systems, and solving algorithms &amp; data structures" />
+  <img src="./assets/now.svg" width="100%" alt="Now: building scalable backend systems, architecting cloud & infrastructure systems, and solving algorithms & data structures" />
 </p>
 
 <br />
@@ -40,20 +48,20 @@
   </picture>
 </p>
 
----
+<!-- GITHUB_STATS:END -->
 
-<p align="center"><sub>README adapted from <a href="https://github.com/Shalini-chaurasiya">Shalini Chaurasiya</a></sub></p>
+---
 
 <p align="center">
   <strong>Connect with me</strong><br />
-  GitHub: <a href="https://github.com/Shalini-chaurasiya">github.com/Shalini-chaurasiya</a> · 
-  LinkedIn: <a href="https://www.linkedin.com/in/shalini-chaurasiya-03425931a/">linkedin.com/in/shalini-chaurasiya-03425931a</a> · 
-  LeetCode: <a href="https://leetcode.com/u/shaliiiiiiiniiiichhh123">leetcode.com/u/shaliiiiiiiniiiichhh123</a> · <br />
-  Codeforces: <a href="https://codeforces.com/profile/Shalini_chaurasiya">codeforces.com/profile/Shalini_chaurasiya</a> · 
-  CodeChef: <a href="https://www.codechef.com/users/shalini_ch123">codechef.com/users/shalini_ch123</a> · 
+  GitHub: <a href="https://github.com/Shalini-chaurasiya">github.com/Shalini-chaurasiya</a> ·
+  LinkedIn: <a href="https://www.linkedin.com/in/shalini-chaurasiya-03425931a/">linkedin.com/in/shalini-chaurasiya-03425931a</a> ·
+  LeetCode: <a href="https://leetcode.com/u/shaliiiiiiiniiiichhh123">leetcode.com/u/shaliiiiiiiniiiichhh123</a><br />
+  Codeforces: <a href="https://codeforces.com/profile/Shalini_chaurasiya">codeforces.com/profile/Shalini_chaurasiya</a> ·
+  CodeChef: <a href="https://www.codechef.com/users/shalini_ch123">codechef.com/users/shalini_ch123</a> ·
   Email: <a href="mailto:shalinichaurasiya2203@gmail.com">shalinichaurasiya2203@gmail.com</a>
 </p>
 
-<sub>🐼 Auto-updated by <a href=".github/workflows/update-readme.yml">NeonPanda</a> · Tue, 25 Aug 2026 02:03:43 GMT</sub>
-
-<!-- GITHUB_STATS:END -->
+<p align="center">
+  <sub>🐼 Auto-updated by <a href=".github/workflows/update-readme.yml">NeonPanda</a></sub>
+</p>
