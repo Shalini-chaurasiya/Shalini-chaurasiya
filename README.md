@@ -1,6 +1,6 @@
 # Hi, I'm Shalini Chaurasiya
 
-B.Tech in Electronics and Communication Engineering, MNNIT Allahabad (2024–2028)
+B.Tech , MNNIT Allahabad (2024–2028)
 
 I build full-stack web applications and am currently developing my skills in Generative AI.
 
