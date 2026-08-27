@@ -42,7 +42,7 @@
 
 ---
 
-<p align="center"><sub>README adapted from <a href="https://github.com/sumitverma77">Sumit Verma</a></sub></p>
+<p align="center"><sub>README adapted from <a href="https://github.com/Shalini-chaurasiya">Shalini Chaurasiya</a></sub></p>
 
 <p align="center">
   <strong>Connect with me</strong><br />
