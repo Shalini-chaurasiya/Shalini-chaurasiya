@@ -42,6 +42,8 @@
 
 ---
 
+<p align="center"><sub>README adapted from <a href="https://github.com/sumitverma77">Sumit Verma</a></sub></p>
+
 <sub>🐼 Auto-updated by <a href=".github/workflows/update-readme.yml">NeonPanda</a> · Tue, 25 Aug 2026 02:03:43 GMT</sub>
 
 <!-- GITHUB_STATS:END -->
