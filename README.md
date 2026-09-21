@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Generative AI Enthusiast
 
-I'm a B.Tech student at **Motilal Nehru National Institute of Technology (MNNIT), Allahabad**, graduating in **2028**. I enjoy building practical, user-focused full-stack web applications and am currently expanding my skills in **Generative AI**.
+I'm a B.Tech student at **Motilal Nehru National Institute of Technology (MNNIT), Allahabad**, graduating in **2028**. I enjoy building practical, user-focused full-stack web applications and am currently exploring Generative AI and its real-world applications.
 
 ## About Me
 
@@ -10,6 +10,14 @@ I'm a B.Tech student at **Motilal Nehru National Institute of Technology (MNNIT)
 - 💻 Building and learning through full-stack web development
 - 🤖 Exploring Generative AI and its real-world applications
 - 🌱 Continuously improving my problem-solving and software development skills
+
+## GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shalini-chaurasiya/Shalini-chaurasiya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shalini-chaurasiya/Shalini-chaurasiya/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Shalini-chaurasiya/Shalini-chaurasiya/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Let's Connect
 
