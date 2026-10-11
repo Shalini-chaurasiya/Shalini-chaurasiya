@@ -13,12 +13,6 @@ I'm a B.Tech student at **Motilal Nehru National Institute of Technology (MNNIT)
 
 ## GitHub Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shalini-chaurasiya/Shalini-chaurasiya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shalini-chaurasiya/Shalini-chaurasiya/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Shalini-chaurasiya/Shalini-chaurasiya/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## Let's Connect
 
 - 📧 **Email:** [shalinichaurasiya2203@gmail.com](mailto:shalinichaurasiya2203@gmail.com)
