@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Generative AI Enthusiast
 
-I'm a B.Tech student at **Motilal Nehru National Institute of Technology (MNNIT), Allahabad**, graduating in **2028**. I enjoy building practical, user-focused full-stack web applications and am currently exploring Generative AI and its real-world applications.
+I'm a B.Tech student at **Motilal Nehru National Institute of Technology (MNNIT), Allahabad**, graduating in **2028**. I enjoy building practical, user-focused full-stack web applications and am currently exploring Generative AI.
 
 ## About Me
 
